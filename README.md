@@ -1,0 +1,2 @@
+# POSE BOT
+ PoseBot is an advanced bot that can mimic human posture with high accuracy using the power of OpenCV and Convolutional Neural Networks (CNNs). By leveraging computer vision and deep learning techniques, PoseBot is able to observe human movements and replicate them in real-time, making it an ideal tool for research and educational purposes in the fields of human-computer interaction and robotics.
